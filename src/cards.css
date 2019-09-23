@@ -1,0 +1,15 @@
+.cards {
+  position: relative;
+  height: 300px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: center;
+  text-align: center;
+}
+
+
+.card {
+  position: absolute;
+  height: 200px;
+}
